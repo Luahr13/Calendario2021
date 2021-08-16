@@ -1,0 +1,16 @@
+.afastamento{
+    padding: 30px;
+}
+
+ul{
+    min-height: 170px;
+}
+
+.final{
+    position: sticky;
+    bottom: 0;
+}
+
+h1{
+    text-align: center;
+}
